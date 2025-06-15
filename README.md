@@ -12,6 +12,32 @@ Spring Boot (Java) → A robust backend framework for handling business logic.
 RESTful APIs → For smooth data communication between the app and server.
 JWT Authentication → Securing user access and project data.
 
+
+# Project's Screen
+
+<img src="https://github.com/user-attachments/assets/0dc5f443-0151-4568-bebb-49dc7f377c51" alt="chapters" width="200">
+
+# Engineer's Screen
+
+<img src="https://github.com/user-attachments/assets/a801d3bb-1908-40de-9c12-13764c42daa3" alt="chapters" width="200">
+
+# Project's Progress Screen
+
+<img src="https://github.com/user-attachments/assets/c09de887-37e9-442f-8899-85713cda7ec2" alt="chapters" width="200">
+
+# Photo Gallery with Date
+
+<img src="https://github.com/user-attachments/assets/baed0e56-062f-4495-9fd4-95efdfbc289f" alt="chapters" width="200">
+
+# Material's Screen
+
+<img src="https://github.com/user-attachments/assets/f271ec46-e33e-4b27-a0e6-88e0b2f37ef7" alt="chapters" width="200">
+
+# Month wise Statistics
+
+<img src="https://github.com/user-attachments/assets/10cd5c5a-96f0-40c8-a5c9-6ed661fcbf81" alt="chapters" width="200">
+
+
 # Features:
 
 📊 Real-Time Project Tracking
@@ -73,32 +99,6 @@ Below are some screenshots of the **TripSheep** application:
 
 This is App which educates the upcomming generations with there legal rights and authorities.
 This app is developed using Kotlin (Jetpack Compose) on MVVM Architeture.
-
-
-# Project's Screen
-
-<img src="https://github.com/user-attachments/assets/0dc5f443-0151-4568-bebb-49dc7f377c51" alt="chapters" width="200">
-
-# Engineer's Screen
-
-<img src="https://github.com/user-attachments/assets/a801d3bb-1908-40de-9c12-13764c42daa3" alt="chapters" width="200">
-
-# Project's Progress Screen
-
-<img src="https://github.com/user-attachments/assets/c09de887-37e9-442f-8899-85713cda7ec2" alt="chapters" width="200">
-
-# Photo Gallery with Date
-
-<img src="https://github.com/user-attachments/assets/baed0e56-062f-4495-9fd4-95efdfbc289f" alt="chapters" width="200">
-
-# Material's Screen
-
-<img src="https://github.com/user-attachments/assets/f271ec46-e33e-4b27-a0e6-88e0b2f37ef7" alt="chapters" width="200">
-
-# Month wise Statistics
-
-<img src="https://github.com/user-attachments/assets/10cd5c5a-96f0-40c8-a5c9-6ed661fcbf81" alt="chapters" width="200">
-
 
 
 
