@@ -13,7 +13,7 @@ RESTful APIs → For smooth data communication between the app and server.
 JWT Authentication → Securing user access and project data.
 
 
-# Project's Screen
+# Project's Screen, Engineer's Screen, Progress Report, Statistics
 
 <img src="https://github.com/user-attachments/assets/0dc5f443-0151-4568-bebb-49dc7f377c51" alt="chapters" width="140">
 
